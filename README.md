@@ -8,3 +8,5 @@ take a look at the code before usage. and please, do not try your luck if you do
 
 at the time of upload, 3/5/23, overwatch is down and you can cheat pretty blatantly with this and not get banned/stay in green trust.
 more reasons to switch over to valorant like i did :^)
+
+it utilizes lazyimporter/xor'd strings. has a "magnetic" triggerbot, gdi esp, and an aimbot that i just couldnt get to work with the fucking triggerbot. i know it's terrible, but it is basically an unpolished version of what you can do most with externals/without writing to game memory. 
